@@ -1,5 +1,5 @@
 # CS250
-CS 250 Portfolio Questions
+
 •	How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 To properly interpret a user’s needs, you first need to research and analyze the functionality of the program you wish to build. Gathering feedback from users to find what their opinions are, finding out what they like and dislike about programs like the one you are building. Then analyze and break down these opinions, prioritizing what would make the program work better than other programs, promoting user satisfaction. 
